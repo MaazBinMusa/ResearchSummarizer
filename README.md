@@ -7,7 +7,7 @@ This is a proof of concept web extension, which summarizes
 any pdf open in the browser (not local though).
 
 
-## How to Use
+## Usage
 
 - To use this template you require an API '/add' and '/' endpoint that takes 
 [url, numb of pages] and returns [summary, title, number of pages]
@@ -23,7 +23,7 @@ generate
 - Returns top 2 most important sentences
 
 
-## Up Next
+## Up-next
 
 - Move API to a server with high memory processing capability
 - Apply Abstractive summary on the important sentences
