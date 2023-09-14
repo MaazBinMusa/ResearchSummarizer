@@ -1,0 +1,30 @@
+body {
+    width: 400px;
+    padding: 10px;
+}
+
+.popup {
+    width: 300px; /* Adjust the width as needed */
+    background-color: #64616118; /* Grey background color */
+    border-radius: 10px; /* Rounded edges */
+    padding: 20px; /* Spacing inside the popup */
+}
+
+
+/* Styling for the bubbles */
+.heading {
+    background-color: #ff3c00; /* Blue bubble background color */
+    color: #fff; /* Text color */
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 20px; /* Rounded edges for bubbles */
+}
+
+/* Styling for the bubbles */
+.bubble {
+    background-color: #ffa600; /* Blue bubble background color */
+    color: #fff; /* Text color */
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 20px; /* Rounded edges for bubbles */
+}
